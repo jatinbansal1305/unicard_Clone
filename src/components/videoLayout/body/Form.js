@@ -16,7 +16,7 @@ const Form=()=>{
               </div>
               <button
                 type="submit"
-                className=" bg-white text-center text-sm leading-7 justify-between pt-2 ml-2 bg-[rgba(253,239,120,1)] rounded-xl z-10 py-2 px-4 disabled:opacity-80 disabled:cursor-not-allowed"
+                className="text-center text-sm leading-7 justify-between pt-2 ml-2 bg-[rgba(253,239,120,1)] rounded-xl z-10 py-2 px-4 disabled:opacity-80 disabled:cursor-not-allowed"
               >
                 <span>Apply Now</span>
               </button>
